@@ -196,15 +196,15 @@ separación entre ellas de 2.5 mils. ¿Cuál es la capacitancia?
 
 10. Un estudiante desea construir un capacitor de 1 F con dos placas cuadradas 
 para un proyecto de feria de las ciencias. Planea utilizar un dieléctrico de 
-papel (er=2.5) de 8X10^-5 m de espesor. La feria de las ciencias se va a llevar a 
-cabo en el “Astrodomo”. ¿Cabrá su capacitor en el “Astrodomo”? ¿De qué
+papel (er=2.5) de 8X10^-5 m de espesor. La feria de las ciencias se va a llevar 
+a cabo en el “Astrodomo”. ¿Cabrá su capacitor en el “Astrodomo”? ¿De qué
 tamaño serían las placas si pudieran ser construidas?
 
 ![image](https://user-images.githubusercontent.com/117767335/210683296-85a2e85d-36e7-440c-a518-64eebb52489e.png)
 
-12. A temperatura ambiente (25°C), se especifica que cierto capacitor sea de 1000 
-pF. El capacitor tiene coeficiente de temperatura negativo de 200 ppm/°C. ¿Cuál 
-es su capacitancia a 75°C?
+12. A temperatura ambiente (25°C), se especifica que cierto capacitor sea de 
+1000 pF. El capacitor tiene coeficiente de temperatura negativo de 200 ppm/°C. 
+¿Cuál es su capacitancia a 75°C?
 
 ![image](https://user-images.githubusercontent.com/117767335/210683530-81e3f6cb-bf4a-43ca-baf4-071601bfbcc5.png)
 
@@ -254,9 +254,14 @@ de 10 μC. Determine el voltaje entre las terminales de cada capacitor.
 
 ![image](https://user-images.githubusercontent.com/117767335/210684330-45944007-30fc-4606-b9dc-712c1ed09eed.png)
 
-28. ¿Cuál es el voltaje entre los nodos A y B en cada circuito de la figura 12-72?
+![image](https://user-images.githubusercontent.com/117767335/210693021-24ac6d3d-dd95-4643-99d3-474964464187.png)
+
+28. ¿Cuál es el voltaje entre los nodos A y B en cada circuito de la figura 12-
+72?
 
 ![image](https://user-images.githubusercontent.com/117767335/210684429-e2d78c63-9255-4238-b584-508a61722049.png)
+
+![image](https://user-images.githubusercontent.com/117767335/210694771-7f9c3dc1-8d50-4aba-8857-acabcdee6223.png)
 
 ##### SECCIÓN 12–5 Capacitores en circuitos de cd
 
@@ -264,8 +269,91 @@ de 10 μC. Determine el voltaje entre las terminales de cada capacitor.
 
 ![image](https://user-images.githubusercontent.com/117767335/210684525-7ef6bca0-52de-4e0a-9330-552213e5e028.png)
 
+![image](https://user-images.githubusercontent.com/117767335/210696689-20fb43e3-78ef-4723-a823-c7d5126026fb.png)
 
+32. En el circuito de la figura 12-74, inicialmente el capacitor está 
+descargado. Determine el voltaje presente en el capacitor en los instantes 
+posteriores al cierre del interruptor:
 
+![image](https://user-images.githubusercontent.com/117767335/210699572-e5031dce-12dc-4491-b6f8-35a3231c611f.png)
+
+![image](https://user-images.githubusercontent.com/117767335/210698810-eed3f788-6f75-42b0-9153-b959481334fd.png)
+
+34. Repita el problema 32 con los siguientes intervalos de tiempo:
+
+![image](https://user-images.githubusercontent.com/117767335/210699745-a09ea2f8-63c9-4844-b620-68a9c612ef14.png)
+
+![image](https://user-images.githubusercontent.com/117767335/210703300-fb364d6c-4aca-42cf-b838-d4cd7fc2c036.png)
+
+36. Derive la fórmula para determinar el tiempo en cualquier punto de una curva 
+de voltaje exponencial creciente. Use esta fórmula para calcular el tiempo en el 
+cual el voltaje que aparece en la figura 12-76 llega a 6 V después de cerrar el 
+interruptor.
+
+![image](https://user-images.githubusercontent.com/117767335/210699978-597b2533-3c9e-4e39-a133-858d18fb7fa2.png)
+
+![image](https://user-images.githubusercontent.com/117767335/210704121-2b44334c-4caa-4e67-acc1-112ce23100ea.png)
+
+38. ¿Cuánto tiempo requiere el capacitor C para descargarse a 3 V en la figura 
+12-75?
+
+![image](https://user-images.githubusercontent.com/117767335/210700235-b4d9f614-0527-43fa-ba07-325da34438fd.png)
+
+![image](https://user-images.githubusercontent.com/117767335/210704639-cc3977a4-1956-4afe-b8fb-b7cfe9cdc15e.png)
+
+40. En la figura 12-78, inicialmente el capacitor está descargado. En el 
+instante t=10 μs después de que se cierra el interruptor, el voltaje
+instantáneo en el capacitor es de 7.2 V. Determine el valor de R.
+
+![image](https://user-images.githubusercontent.com/117767335/210704842-d06b5bf1-5b2d-4382-8c9a-ee8e1949270b.png)
+
+![image](https://user-images.githubusercontent.com/117767335/210704929-e11d6be2-07b0-4517-96d9-5e4e91cb1db6.png)
+
+##### SECCIÓN 12–6 Capacitores en circuitos de ca
+
+42. ¿Cuál es el valor de la reactancia capacitiva total en cada circuito de la figura 12-80?
+
+![image](https://user-images.githubusercontent.com/117767335/210701505-a61c3e6e-3b31-4f8c-850d-f16ec2e8dc19.png)
+
+![image](https://user-images.githubusercontent.com/117767335/210705822-0c4aeee4-2c50-4b21-bb10-d32b8463f407.png)
+
+44. En cada circuito de la figura 12-80, ¿qué frecuencia se requiere para producir 
+una XC de 100 Ω? ¿Una XC de 1 kΩ?
+
+![image](https://user-images.githubusercontent.com/117767335/210707093-87d85050-0afd-48e9-82ad-c3b4a6fad1bc.png)
+
+46. Se aplica un voltaje de 10 kHz a un capacitor de 0.0047 μF, y se mide una 
+corriente rms de 1 mA. ¿Cuál es el valor del voltaje?
+
+![image](https://user-images.githubusercontent.com/117767335/210708655-6e56e450-2536-4e25-b68e-6137448e5b7e.png)
+
+48. Determine el voltaje de ca entre las terminales de cada capacitor y la 
+corriente en cada rama del circuito de la figura 12-81.
+
+![image](https://user-images.githubusercontent.com/117767335/210701923-f5284f8a-e991-4b74-a9e0-8d4a3baa55fd.png)
+
+![image](https://user-images.githubusercontent.com/117767335/210712932-fcb78ad4-3973-4583-b4b7-6f977947bd59.png)
+
+50. Si en la figura 12-81 C4 se abriera, determine los voltajes que se medirían 
+entre las terminales de los otros capacitores.
+
+![image](https://user-images.githubusercontent.com/117767335/210702105-dae1ac81-d4e4-4bfa-b837-42b03830ef86.png)
+
+![image](https://user-images.githubusercontent.com/117767335/210713943-3e59df74-f412-4f95-8b64-120cdcb36a4b.png)
+
+##### SECCIÓN 12–7 Aplicaciones de los capacitores
+
+52. Idealmente, ¿cuál deberá ser la reactancia de un capacitor de desvío para 
+eliminar un voltaje de ca de 10 kHz en un punto dado en un circuito amplificador?
+
+![image](https://user-images.githubusercontent.com/117767335/210714191-52529a8a-03bd-4ad8-bfd2-0d4b7d6efca9.png)
+
+##### SECCIÓN 12–8 Circuitos de capacitor conmutado
+
+54. En un circuito de capacitor conmutado, el capacitor de 100 pF se conmuta a una 
+frecuencia de 8 kHz. ¿Qué valor de resistor se emula?
+
+![image](https://user-images.githubusercontent.com/117767335/210715059-18419e26-e18d-4c35-9f39-8cf4e66964cf.png)
 
 #### 4. VIDEO:
 
