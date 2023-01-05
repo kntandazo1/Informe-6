@@ -38,8 +38,6 @@ OBJETIVOS ESPECÍFICOS:
 
 ![7](https://user-images.githubusercontent.com/117767335/210848048-c7bd6ade-db37-4f64-bd6a-3e5248f03a9e.png)
 
-![8](https://user-images.githubusercontent.com/117767335/210848053-04cd05ce-a792-446c-b5fe-aabd93ab2518.png)
-
 
 #### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
 
