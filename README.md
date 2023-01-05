@@ -10,9 +10,19 @@ NRC: 10067
 
 OBJETIVOS GENERALES:
 
+* Comprender los conceptos básicos de manera precisa, referentes a  la introducción de 
+corriente y voltaje alternos y también de los capacitores mediante una lectura profunda.
+
+* Analizar las varibles dentro de conexiones de capacitores en serie y paralelo, para 
+extender el comportamiento de los distintos capacitores en circuitos mixtos.
 
 OBJETIVOS ESPECÍFICOS:
 
+- Entender la teoría de corriente y voltaje alternos y lo que son capacitores.
+
+- Identificar una forma de onda sinusoidal y calcular las características de la misma.
+
+- Especificar la construcción y las características básicas de un capacitor.
 
 #### 2. MARCO TEÓRICO:
 
@@ -358,6 +368,19 @@ frecuencia de 8 kHz. ¿Qué valor de resistor se emula?
 #### 4. VIDEO:
 
 #### 5. CONCLUSIONES:
+
+- Se concluye que al entender la teoría es base fundamental para aplicar las definiciones 
+en la resolución de problemas, en especial cuando se trata del funcionamiento de corriente 
+y voltaje alernos y capacitores. Mediante la teoría de capacitores nos indica como es el 
+comportamiento dentro de un circuito cerrado, y la relación que existe entres sí, cuando
+estos están conectados de forma en serie o paralelo.
+
+- En conclusión tanto los capacitores como las resistencias pueden conectarse en serie y 
+en paralelo, cuando se habla de que los capacitores en serie, la carga va a ser igual en 
+los mismos.
+
+- En los capacitores en paralelo el voltaje es igual, en cambio para capacitores en 
+serie el voltaje equivalente es igual a la suma de los voltajes de cada capacitor.
 
 #### 6. BIBLIOGRAFÍA:
 
