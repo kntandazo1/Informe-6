@@ -380,6 +380,8 @@ frecuencia de 8 kHz. ¿Qué valor de resistor se emula?
 
 #### 4. VIDEO:
 
+https://youtu.be/Vq7MBHWXktI
+
 #### 5. CONCLUSIONES:
 
 - Se concluye que al entender la teoría es base fundamental para aplicar las definiciones 
